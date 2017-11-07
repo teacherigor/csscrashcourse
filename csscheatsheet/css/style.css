@@ -170,6 +170,9 @@ a:visited{
 	margin: 30px;
 	position: relative;
 	background-image: url('../images/bgimage.jpeg');
+	background-repeat: no-repeat;
+	background-position: 1000px 2000px;
+	background-position: center top;
 }
 
 .p-box h1{
