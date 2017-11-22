@@ -38,3 +38,9 @@ body{
 	font-size: 18px;
 	padding-right: 15px;
 }
+
+#showcase{
+	background-image: url('../images/showcase.jpeg');
+	background-position: center right;
+	height: 300px;
+}
