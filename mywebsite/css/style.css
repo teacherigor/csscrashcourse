@@ -40,7 +40,10 @@ body{
 }
 
 #showcase{
-	background-image: url('../images/showcase.jpeg');
-	background-position: center right;
+	background-image: url('../images/showcase.jpeg'); //must have
+	background-position: center right; // must have
+	background-repeat: no-repeat; // must have
+	background-size: cover;
+	background-attachment: fixed;
 	height: 300px;
 }
