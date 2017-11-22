@@ -44,6 +44,7 @@ body{
 	background-position: center right; // must have
 	background-repeat: no-repeat; // must have
 	background-size: cover;
+	background: url('../images/showcase.jpeg') no-repeat center right/ cover;
 	background-attachment: fixed;
 	height: 300px;
 }
