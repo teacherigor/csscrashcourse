@@ -46,4 +46,6 @@ body{
 	background-size: cover; */
 	background: url('../images/showcase.jpeg') no-repeat center right/ cover fixed;
 	height: 300px;
+	margin-bottom: 30px;
+	text-align: center;
 }
