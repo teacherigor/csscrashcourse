@@ -63,3 +63,12 @@ body{
 	padding: 0 30px;
 	box-sizing: content-box;
 }
+
+#sidebar{
+	float: right;
+	width: 30%;
+	background: #333;
+	color: #fff;
+	padding: 10px;
+	box-sizing: content-box;
+}
