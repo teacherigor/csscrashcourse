@@ -45,7 +45,14 @@ body{
 	background-repeat: no-repeat; // must have
 	background-size: cover; */
 	background: url('../images/showcase.jpeg') no-repeat center right/ cover fixed;
-	height: 300px;
+	min-height: 300px;
 	margin-bottom: 30px;
 	text-align: center;
+}
+
+#showcase h1{
+	color: #fff;
+	font-size: 50px;
+	line-height: 1.6em;
+	padding-top: 30px;
 }
